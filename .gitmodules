@@ -1,0 +1,3 @@
+[submodule "EdgeViewer"]
+	path = EdgeViewer
+	url = git@git.taekacademy.com:yun/DeskSystem.git
